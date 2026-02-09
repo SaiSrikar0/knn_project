@@ -10,6 +10,12 @@ An end-to-end Streamlit application for K-Nearest Neighbors (KNN) classification
 - KNN classification or regression with optional scaling and grid search
 - Performance metrics, plots, and cross-validation
 
+## Live App
+https://knn-project.streamlit.app/
+
+## Screenshot
+![KNN App Screenshot](image.png)
+
 ## Project Structure
 ```
 app.py
